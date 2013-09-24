@@ -35,7 +35,7 @@ puts "Give me a color."
 color = gets.chomp
 puts "Give me a two nouns that mean the same thing (synonyms) separated by a space"
 syn_a, syn_b = gets.chomp.split(" ")
-puts "Give me a transitive verb (that takes an object)"
+puts "Give me a verb"
 verb4 = gets.chomp
 puts "Give me a body part and then another body part, separated by a space."
 b1, b2 = gets.chomp.split(" ")
@@ -96,8 +96,8 @@ Let us #{verb3} and make our visit.	\n\n
 In the room the #{pl_noun} come and #{go}	\n
 Talking of #{michaelangelo}.	\n\n
  
-The #{color} #{syn_a} that #{verb4} its #{b1} upon the window-panes,\n	        
-The #{color} #{syn_b} that #{verb4} its #{b2} on the window-panes	\n
+The #{color} #{syn_a} that #{verb4}s its #{b1} upon the window-panes,\n	        
+The #{color} #{syn_b} that #{verb4}s its #{b2} on the window-panes	\n
 Licked its tongue into the corners of the evening,	\n
 #{verb5} upon the #{noun2} that stand in drains,	\n
 Let fall upon its back the soot that falls from #{noun3},	\n
