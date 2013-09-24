@@ -90,7 +90,7 @@ And sawdust #{place} with #{animal}-shells:	\n
 Streets that #{verb} like a #{adj3} argument	\n
 Of insidious intent	\n
 To #{verb2} you to an overwhelming question…	        \n
-#{oh}, do not ask, “What is it?”	\n
+#{oh}, do not ask, 'What is it?'	\n
 Let us #{verb3} and make our visit.	\n\n
  
 In the room the #{pl_noun} come and #{go}	\n
