@@ -87,7 +87,7 @@ Let us go, through certain half-#{adj1} streets,	\n
 The #{gerund1} retreats	       \n
 Of #{adj2} nights in one-night cheap hotels	\n
 And sawdust #{place} with #{animal}-shells:	\n
-Streets that #{verb} like a #{adj3} argument	\n
+Streets that #{verb1} like a #{adj3} argument	\n
 Of insidious intent	\n
 To #{verb2} you to an overwhelming question…	        \n
 #{oh}, do not ask, 'What is it?'	\n
